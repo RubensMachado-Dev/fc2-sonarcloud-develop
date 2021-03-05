@@ -1,4 +1,5 @@
 .scannerwork
+.scannerwork/
 coverage.out
 node_modules
 package.json
